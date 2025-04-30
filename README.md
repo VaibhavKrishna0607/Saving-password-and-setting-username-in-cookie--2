@@ -27,3 +27,6 @@
 
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
+
+SHA256 hash: 85daaf6f7055cd5736287faed9603d712920092c4f8fd0097ec3b650bf27530e
+Success code: 118
